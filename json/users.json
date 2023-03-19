@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "id":  "batuhan",
+      "address":  "0x",
+      "clan" : 2,
+      "seasonPoint": 102
+    },
+    {
+      "id":  "test",
+      "address":  "0x",
+      "clan" : 3,
+      "seasonPoint": 14
+    },
+    {
+      "id":  "deneme",
+      "address":  "0x",
+      "clan" : 2,
+      "seasonPoint": 35
+    }
+  ]
+
+}

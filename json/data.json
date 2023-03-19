@@ -1,0 +1,756 @@
+{
+    "maps": [
+      
+        {
+          "id": "0",
+          "uri": "",
+          "owner": "0",
+          "value": "0",
+          "isBase": false,
+          "attackerClan": "0",
+          "roads": [],
+          "attackerWarriors": [],
+          "defenderWarriors": []
+        }
+      ,
+      
+        {
+          "id": "1",
+          "uri": "",
+          "owner": "1",
+          "value": "5",
+          "isBase": true,
+          "attackerClan": "0",
+          "roads": [
+            "2",
+            "8",
+            "7",
+            "28"
+          ],
+          "attackerWarriors": [],
+          "defenderWarriors": []
+        }
+      ,
+      
+        {
+          "id": "2",
+          "uri": "",
+          "owner": "0",
+          "value": "5",
+          "isBase": false,
+          "attackerClan": "0",
+          "roads": [
+            "3",
+            "6",
+            "8",
+            "1"
+          ],
+          "attackerWarriors": [],
+          "defenderWarriors": []
+        }
+      ,
+      
+        {
+          "id": "3",
+          "uri": "",
+          "owner": "0",
+          "value": "5",
+          "isBase": false,
+          "attackerClan": "0",
+          "roads": [
+            "2",
+            "4",
+            "6"
+          ],
+          "attackerWarriors": [],
+          "defenderWarriors": []
+        }
+      ,
+      
+        {
+          "id": "4",
+          "uri": "",
+          "owner": "0",
+          "value": "5",
+          "isBase": false,
+          "attackerClan": "0",
+          "roads": [
+            "3",
+            "6",
+            "5"
+          ],
+          "attackerWarriors": [],
+          "defenderWarriors": []
+        }
+      ,
+      
+        {
+          "id": "5",
+          "uri": "",
+          "owner": "0",
+          "value": "5",
+          "isBase": false,
+          "attackerClan": "0",
+          "roads": [
+            "4",
+            "6",
+            "9",
+            "10",
+            "11"
+          ],
+          "attackerWarriors": [],
+          "defenderWarriors": []
+        }
+      ,
+      
+        {
+          "id": "6",
+          "uri": "",
+          "owner": "0",
+          "value": "5",
+          "isBase": false,
+          "attackerClan": "0",
+          "roads": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "9",
+            "8"
+          ],
+          "attackerWarriors": [],
+          "defenderWarriors": []
+        }
+      ,
+      
+        {
+          "id": "7",
+          "uri": "",
+          "owner": "0",
+          "value": "5",
+          "isBase": false,
+          "attackerClan": "0",
+          "roads": [
+            "1",
+            "8",
+            "15",
+            "14",
+            "13",
+            "28"
+          ],
+          "attackerWarriors": [],
+          "defenderWarriors": []
+        }
+      ,
+      
+        {
+          "id": "8",
+          "uri": "",
+          "owner": "0",
+          "value": "5",
+          "isBase": false,
+          "attackerClan": "0",
+          "roads": [
+            "1",
+            "2",
+            "6",
+            "9",
+            "16",
+            "15",
+            "7"
+          ],
+          "attackerWarriors": [],
+          "defenderWarriors": []
+        }
+      ,
+      
+        {
+          "id": "9",
+          "uri": "",
+          "owner": "0",
+          "value": "5",
+          "isBase": false,
+          "attackerClan": "0",
+          "roads": [
+            "6",
+            "5",
+            "10",
+            "16",
+            "8"
+          ],
+          "attackerWarriors": [],
+          "defenderWarriors": []
+        }
+      ,
+
+        {
+          "id": "10",
+          "uri": "",
+          "owner": "0",
+          "value": "5",
+          "isBase": false,
+          "attackerClan": "0",
+          "roads": [
+            "5",
+            "9",
+            "16",
+            "11",
+            "22"
+          ],
+          "attackerWarriors": [],
+          "defenderWarriors": []
+        }
+      ,
+      
+        {
+          "id": "11",
+          "uri": "",
+          "owner": "0",
+          "value": "5",
+          "isBase": false,
+          "attackerClan": "0",
+          "roads": [
+            "5",
+            "10",
+            "22",
+            "23"
+          ],
+          "attackerWarriors": [],
+          "defenderWarriors": []
+        }
+      ,
+      
+        {
+          "id": "12",
+          "uri": "",
+          "owner": "0",
+          "value": "5",
+          "isBase": false,
+          "attackerClan": "0",
+          "roads": [
+            "28",
+            "13",
+            "18",
+            "17"
+          ],
+          "attackerWarriors": [],
+          "defenderWarriors": []
+        }
+      ,
+      
+        {
+          "id": "13",
+          "uri": "",
+          "owner": "0",
+          "value": "5",
+          "isBase": false,
+          "attackerClan": "0",
+          "roads": [
+            "7",
+            "14",
+            "20",
+            "19",
+            "18",
+            "12",
+            "28"
+          ],
+          "attackerWarriors": [],
+          "defenderWarriors": []
+        }
+      ,
+      
+        {
+          "id": "14",
+          "uri": "",
+          "owner": "0",
+          "value": "5",
+          "isBase": false,
+          "attackerClan": "0",
+          "roads": [
+            "15",
+            "21",
+            "20",
+            "13",
+            "7"
+          ],
+          "attackerWarriors": [],
+          "defenderWarriors": []
+        }
+      ,
+      
+        {
+          "id": "15",
+          "uri": "",
+          "owner": "0",
+          "value": "5",
+          "isBase": false,
+          "attackerClan": "0",
+          "roads": [
+            "8",
+            "16",
+            "22",
+            "21",
+            "14",
+            "7"
+          ],
+          "attackerWarriors": [],
+          "defenderWarriors": []
+        }
+      ,
+      
+        {
+          "id": "16",
+          "uri": "",
+          "owner": "0",
+          "value": "5",
+          "isBase": false,
+          "attackerClan": "0",
+          "roads": [
+            "8",
+            "10",
+            "22",
+            "15",
+            "9"
+          ],
+          "attackerWarriors": [],
+          "defenderWarriors": []
+        }
+      ,
+      
+        {
+          "id": "17",
+          "uri": "",
+          "owner": "2",
+          "value": "5",
+          "isBase": true,
+          "attackerClan": "0",
+          "roads": [
+            "12",
+            "18",
+            "30",
+            "35"
+          ],
+          "attackerWarriors": [],
+          "defenderWarriors": []
+        }
+      ,
+      
+        {
+          "id": "18",
+          "uri": "",
+          "owner": "0",
+          "value": "5",
+          "isBase": false,
+          "attackerClan": "0",
+          "roads": [
+            "12",
+            "13",
+            "19",
+            "24",
+            "30",
+            "17"
+          ],
+          "attackerWarriors": [],
+          "defenderWarriors": []
+        }
+      ,
+      
+        {
+          "id": "19",
+          "uri": "",
+          "owner": "0",
+          "value": "5",
+          "isBase": false,
+          "attackerClan": "0",
+          "roads": [
+            "13",
+            "20",
+            "26",
+            "25",
+            "24",
+            "18"
+          ],
+          "attackerWarriors": [],
+          "defenderWarriors": []
+        }
+      ,
+      
+        {
+          "id": "20",
+          "uri": "",
+          "owner": "0",
+          "value": "5",
+          "isBase": false,
+          "attackerClan": "0",
+          "roads": [
+            "14",
+            "21",
+            "26",
+            "19",
+            "13"
+          ],
+          "attackerWarriors": [],
+          "defenderWarriors": []
+        }
+      ,
+      
+        {
+          "id": "21",
+          "uri": "",
+          "owner": "0",
+          "value": "5",
+          "isBase": false,
+          "attackerClan": "0",
+          "roads": [
+            "14",
+            "15",
+            "22",
+            "26",
+            "20"
+          ],
+          "attackerWarriors": [],
+          "defenderWarriors": []
+        }
+      ,
+      
+        {
+          "id": "22",
+          "uri": "",
+          "owner": "0",
+          "value": "5",
+          "isBase": false,
+          "attackerClan": "0",
+          "roads": [
+            "21",
+            "15",
+            "16",
+            "10",
+            "11",
+            "23",
+            "32",
+            "27",
+            "26"
+          ],
+          "attackerWarriors": [],
+          "defenderWarriors": []
+        }
+      ,
+      
+        {
+          "id": "23",
+          "uri": "",
+          "owner": "3",
+          "value": "5",
+          "isBase": true,
+          "attackerClan": "0",
+          "roads": [
+            "11",
+            "22",
+            "32",
+            "29"
+          ],
+          "attackerWarriors": [],
+          "defenderWarriors": []
+        }
+      ,
+        {
+          "id": "24",
+          "uri": "",
+          "owner": "0",
+          "value": "5",
+          "isBase": false,
+          "attackerClan": "0",
+          "roads": [
+            "19",
+            "25",
+            "31",
+            "33",
+            "30",
+            "18"
+          ],
+          "attackerWarriors": [],
+          "defenderWarriors": []
+        }
+      ,
+        {
+          "id": "25",
+          "uri": "",
+          "owner": "0",
+          "value": "5",
+          "isBase": false,
+          "attackerClan": "0",
+          "roads": [
+            "26",
+            "27",
+            "32",
+            "31",
+            "24",
+            "19"
+          ],
+          "attackerWarriors": [],
+          "defenderWarriors": []
+        }
+      ,
+        {
+          "id": "26",
+          "uri": "",
+          "owner": "0",
+          "value": "5",
+          "isBase": false,
+          "attackerClan": "0",
+          "roads": [
+            "21",
+            "22",
+            "27",
+            "25",
+            "19",
+            "20"
+          ],
+          "attackerWarriors": [],
+          "defenderWarriors": []
+        }
+      ,
+        {
+          "id": "27",
+          "uri": "",
+          "owner": "0",
+          "value": "5",
+          "isBase": false,
+          "attackerClan": "0",
+          "roads": [
+            "22",
+            "32",
+            "25",
+            "26"
+          ],
+          "attackerWarriors": [],
+          "defenderWarriors": []
+        }
+      ,
+        {
+          "id": "28",
+          "uri": "",
+          "owner": "0",
+          "value": "5",
+          "isBase": false,
+          "attackerClan": "0",
+          "roads": [
+            "1",
+            "7",
+            "13",
+            "12"
+          ],
+          "attackerWarriors": [],
+          "defenderWarriors": []
+        }
+      ,
+        {
+          "id": "29",
+          "uri": "",
+          "owner": "0",
+          "value": "5",
+          "isBase": false,
+          "attackerClan": "0",
+          "roads": [
+            "23",
+            "32",
+            "34",
+            "36",
+            "38"
+          ],
+          "attackerWarriors": [],
+          "defenderWarriors": []
+        }
+      ,
+        {
+          "id": "30",
+          "uri": "",
+          "owner": "0",
+          "value": "5",
+          "isBase": false,
+          "attackerClan": "0",
+          "roads": [
+            "17",
+            "18",
+            "24",
+            "33",
+            "35"
+          ],
+          "attackerWarriors": [],
+          "defenderWarriors": []
+        }
+      ,
+        {
+          "id": "31",
+          "uri": "",
+          "owner": "0",
+          "value": "5",
+          "isBase": false,
+          "attackerClan": "0",
+          "roads": [
+            "25",
+            "24",
+            "32",
+            "34",
+            "33"
+          ],
+          "attackerWarriors": [],
+          "defenderWarriors": []
+        }
+      ,
+        {
+          "id": "32",
+          "uri": "",
+          "owner": "0",
+          "value": "5",
+          "isBase": false,
+          "attackerClan": "0",
+          "roads": [
+            "23",
+            "22",
+            "29",
+            "34",
+            "31",
+            "25",
+            "27"
+          ],
+          "attackerWarriors": [],
+          "defenderWarriors": []
+        }
+      ,
+        {
+          "id": "33",
+          "uri": "",
+          "owner": "0",
+          "value": "5",
+          "isBase": false,
+          "attackerClan": "0",
+          "roads": [
+            "24",
+            "31",
+            "34",
+            "36",
+            "35",
+            "30"
+          ],
+          "attackerWarriors": [],
+          "defenderWarriors": []
+        }
+      ,
+        {
+          "id": "34",
+          "uri": "",
+          "owner": "0",
+          "value": "5",
+          "isBase": false,
+          "attackerClan": "0",
+          "roads": [
+            "32",
+            "29",
+            "36",
+            "33",
+            "31"
+          ],
+          "attackerWarriors": [],
+          "defenderWarriors": []
+        }
+      ,
+        {
+          "id": "35",
+          "uri": "",
+          "owner": "0",
+          "value": "5",
+          "isBase": false,
+          "attackerClan": "0",
+          "roads": [
+            "30",
+            "17",
+            "33",
+            "36",
+            "37"
+          ],
+          "attackerWarriors": [],
+          "defenderWarriors": []
+        }
+      ,
+        {
+          "id": "36",
+          "uri": "",
+          "owner": "0",
+          "value": "5",
+          "isBase": false,
+          "attackerClan": "0",
+          "roads": [
+            "29",
+            "38",
+            "35",
+            "33",
+            "34"
+          ],
+          "attackerWarriors": [],
+          "defenderWarriors": []
+        }
+      ,
+        {
+          "id": "37",
+          "uri": "",
+          "owner": "0",
+          "value": "5",
+          "isBase": false,
+          "attackerClan": "0",
+          "roads": [
+            "35",
+            "38",
+            "39"
+          ],
+          "attackerWarriors": [],
+          "defenderWarriors": []
+        }
+      ,
+        {
+          "id": "38",
+          "uri": "",
+          "owner": "0",
+          "value": "5",
+          "isBase": false,
+          "attackerClan": "0",
+          "roads": [
+            "29",
+            "36",
+            "39",
+            "37"
+          ],
+          "attackerWarriors": [],
+          "defenderWarriors": []
+        }
+      ,
+        {
+          "id": "39",
+          "uri": "",
+          "owner": "0",
+          "value": "5",
+          "isBase": false,
+          "attackerClan": "0",
+          "roads": [
+            "37",
+            "38"
+          ],
+          "attackerWarriors": [],
+          "defenderWarriors": []
+        }
+      ,
+        {
+          "id": "0",
+          "uri": "",
+          "owner": "0",
+          "value": "0",
+          "isBase": false,
+          "attackerClan": "0",
+          "roads": [],
+          "attackerWarriors": [],
+          "defenderWarriors": []
+        }
+
+    ]
+
+  }
