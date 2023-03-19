@@ -10,6 +10,10 @@ export const typeDefs =
     user(id: ID!): User!
     #All Users
     users: [User!]!
+    #Filter by message ID number
+    message(id: ID!): Message!
+    #All Messages
+    messages: [Message!]!
   }
   
   type Country{
@@ -30,11 +34,19 @@ export const typeDefs =
   	#Defender warriors
   	defenderWarriors: [String]
   }
+  
   type User{
   id:  ID!
   address:  String!
   clan : Int
   seasonPoint: Int
+  }
+  
+  type Message{
+  id:  ID!
+  type:  String!
+  message : String!
+  priority: Int!
   }
   
 `;

@@ -1,0 +1,29 @@
+{
+  "messages":
+  [
+    {
+      "id": 1,
+      "type":"Announcement",
+      "message":"Test message",
+      "priority": 1
+    },
+    {
+      "id": 2,
+      "type":"Announcement",
+      "message":"Test message",
+      "priority": 2
+    },
+    {
+      "id": 3,
+      "type":"Text",
+      "message":"Test message text",
+      "priority": 0
+    },
+    {
+      "id": 4,
+      "type":"Text",
+      "message":"Test message text 2",
+      "priority": 0
+    }
+  ]
+}
